@@ -1,7 +1,8 @@
-# drive_gram
+IyBkcml2ZV9ncmFtCgpBcHBsaWthc2kgZGF0YWJhc2UgdGVsZWdyYW0gaWxl
+Z2FsIGRlbmdhbiBrYXBhc2l0YXMgdGFrIHRlcmhpbmdnYQoKIVtdKC9zY3Jl
+ZW5zaG90L3NjcmVlbnNob3QucG5nKQoKIVtdKC9zY3JlZW5zaG90L3NjcmVl
+bnNob3RfMS5wbmcp
 
-Applikasi database telegram ilegal dengan kapasitas tak terhingga
-
-![](/screenshot/screenshot.png)
-
-![](/screenshot/screenshot_1.png)
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
